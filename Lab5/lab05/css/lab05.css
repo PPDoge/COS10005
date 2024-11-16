@@ -1,0 +1,16 @@
+article{
+    border-style: solid; width: 55%; float: left; position: relative; top: 20px;
+    background-color: lightblue;
+}
+nav{
+    border-style: solid; width: 55%; float:left; position: relative; top: 10px;
+    background-color: lightgrey;
+}
+aside{
+    border-style: solid; width: 43%; float: right; position: relative; top: 20px;
+    background-color: lightblue;
+}
+footer{
+    border-style: solid; width: 100%; float: left; position: relative; top: 30px;
+    background-color: lightpink;
+}
